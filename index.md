@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<img src="https://avatars1.githubusercontent.com/u/74014052?s=400&u=5d43138c7d9de839bcdd9e7f13c32442795942a4&v=4" />
 
-You can use the [editor on GitHub](https://github.com/mirsalarinarjes/mirsalarinarjes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Narjes Mirsalari.
+I am studying computer engineering at PNU University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Narjes
+- Last Name: Mirsalari
+- Birth Date: 1363/06/23
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
+- Teaching in the conservatory
 
-- Bulleted
-- List
+### Languages
 
-1. Numbered
-2. List
+- Persian(Advanced)
 
-**Bold** and _Italic_ and `Code` text
+- khoram Abad(Normal)
 
-[Link](url) and ![Image](src)
-```
+### Licenses & Certifications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Bachelor of Software
 
-### Jekyll Themes
+### Working Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirsalarinarjes/mirsalarinarjes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 9 years of art education in the  conservatory
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Accounts
+ 
+- nothing
+  
+  Persian Resume: <a href=""> Resume </a>
