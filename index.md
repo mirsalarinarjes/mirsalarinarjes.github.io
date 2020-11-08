@@ -33,4 +33,4 @@ I am studying computer engineering at PNU University.
  
 - nothing
   
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://mirsalarinarjes.github.io/resume-fa/"> Resume </a>
