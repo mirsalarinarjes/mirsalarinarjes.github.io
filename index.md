@@ -3,7 +3,7 @@
 ### About Me
 
 I am Narjes Mirsalari.
-I am studying computer engineering at PNU University.
+Graduate student of Computer Engineering, North Tehran Branch
 
 ### Personal Information
 
@@ -19,7 +19,7 @@ I am studying computer engineering at PNU University.
 
 - Persian(Advanced)
 
-- khoram Abad(Normal)
+- Engilish(Normal)
 
 ### Licenses & Certifications
 
