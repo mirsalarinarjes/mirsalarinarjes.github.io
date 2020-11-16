@@ -17,7 +17,7 @@ Graduate student of Computer Engineering, North Tehran Branch
 
 - Photoshop
 
-- Primier
+- Premiere
 
 - Aftereffect
  
