@@ -15,6 +15,14 @@ Graduate student of Computer Engineering, North Tehran Branch
 
 - Teaching in the conservatory
 
+- Photoshop
+
+- Primier
+
+- Aftereffect
+ 
+- ICDL
+
 ### Languages
 
 - Persian(Advanced)
