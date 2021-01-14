@@ -10,6 +10,12 @@ Graduate student of Computer Engineering, North Tehran Branch
 - First Name: Narjes
 - Last Name: Mirsalari
 - Birth Date: 1363/06/23
+-	 Marital status  : Married
+-	Child status : 2
+-	Job status : teacher
+-	City : khoramabad
+-	Phone  numberc: 09057368662
+-	E-mail : mirsalari6063@gmail.com
 
 ### Skills
 
@@ -36,6 +42,10 @@ Graduate student of Computer Engineering, North Tehran Branch
 ### Working Experience
 
 - 9 years of art education in the  conservatory
+### Degrees
+-	Math  Diploma
+-	Bachelors degree in computer scince
+-	Master student computer scince in  Payam noor university Tehran north
 
 ### Other Accounts
  
